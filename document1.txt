@@ -14,7 +14,7 @@ def partition(l, r, nums):
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
  
- 
+ 2131231231231231
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
         return nums
